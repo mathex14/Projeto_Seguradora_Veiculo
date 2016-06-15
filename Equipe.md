@@ -1,4 +1,4 @@
 # Projeto_Seguradora_Veiculo
 
-Equipe: Mathias Barbosa
+Equipe: Mathias Barbosa,
         Vinicius Alexandre
